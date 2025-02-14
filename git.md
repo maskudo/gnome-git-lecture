@@ -83,3 +83,22 @@ theme:
 - Crete new file and write some content
 - Merge new branch to master
 <!--end_slide-->
+
+# Merge Conflicts
+
+<!-- pause -->
+<!-- incremental_lists: true -->
+
+- When you edit same region of files from multiple branches and try to merge
+- Git can't choose which version to keep
+<!--end_slide-->
+
+# Merge Conflict Demo
+
+<!-- pause -->
+<!-- incremental_lists: true -->
+
+- Create new branch
+- Write something on line 1 in file in master
+- Write something on line 1 in file in new branch
+- Merge new branch to master
