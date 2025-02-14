@@ -64,3 +64,22 @@ theme:
 - `git branch <branch> <parent>`
 - `git checkout <branch|commit>`
 <!--end_slide-->
+
+# Merge
+
+<!-- pause -->
+<!-- incremental_lists: true -->
+
+- Merge shared progress
+- `git merge branch`
+<!--end_slide-->
+
+# Merge Demo
+
+<!-- pause -->
+<!-- incremental_lists: true -->
+
+- Create new branch
+- Crete new file and write some content
+- Merge new branch to master
+<!--end_slide-->
