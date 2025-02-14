@@ -46,3 +46,21 @@ theme:
 ![git](git.jpg)
 
 <!--end_slide-->
+
+# Collaboration
+
+<!-- pause -->
+
+- Different people working on different versions at once
+<!--end_slide-->
+
+# Branches
+
+<!-- pause -->
+<!-- incremental_lists: true -->
+
+- Default branch main/master
+- `git branch <branch>`
+- `git branch <branch> <parent>`
+- `git checkout <branch|commit>`
+<!--end_slide-->
