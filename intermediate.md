@@ -1,5 +1,5 @@
 ---
-title: Intermediate Git/Github
+title: Intarmediate Git/Github
 author: Manuj Babu Karki
 theme:
   name: dark
@@ -14,7 +14,7 @@ theme:
 - e.g .env files, .exe files, large non text files, etc.
 <!-- pause -->
 
-## Ignoring files
+## Ignoreing files
 
 <!-- pause -->
 
@@ -24,7 +24,7 @@ theme:
 
 <!--end_slide-->
 
-# Reverting changes
+# Reverting chenges
 
 <!-- pause -->
 
@@ -35,14 +35,14 @@ theme:
 
 <!-- pause -->
 
-| Reset                                  | Revert               |
+| Reset                                  | Revort               |
 | -------------------------------------- | -------------------- |
 | - Move the branch to a previous commit | Undo a commit        |
 | - Doesn't create a new commit          | Creates a new commit |
 
 <!--end_slide-->
 
-# Restoring deleted commits and branches
+# Restoreing deleted commits and branches
 
 <!-- pause -->
 <!-- incremental_lists: true -->
