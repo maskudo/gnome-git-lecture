@@ -60,3 +60,9 @@ theme:
 
 - You can add parts of a file to be staged interactively
 - `git add -p`
+<!--end_slide-->
+
+# Reporeting issues and Requesting Features
+
+- Report typos on this repo
+- Improv documantation
