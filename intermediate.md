@@ -64,5 +64,8 @@ theme:
 
 # Reporeting issues and Requesting Features
 
+<!-- pause -->
+<!-- incremental_lists: true -->
+
 - Report typos on this repo
 - Improv documantation
