@@ -23,3 +23,19 @@ theme:
 - To ignore a pattern. e.g all .exe files `*.exe`
 
 <!--end_slide-->
+
+# Reverting changes
+
+<!-- pause -->
+
+<!-- incremental_lists: true -->
+
+- To undo a commit: `git revert <commit>`
+- To reset a commit: `git reset HEAD~1 `, `git reset --hard HEAD~1`
+
+<!-- pause -->
+
+| Reset                                  | Revert               |
+| -------------------------------------- | -------------------- |
+| - Move the branch to a previous commit | Undo a commit        |
+| - Doesn't create a new commit          | Creates a new commit |
