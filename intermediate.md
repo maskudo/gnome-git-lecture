@@ -39,3 +39,15 @@ theme:
 | -------------------------------------- | -------------------- |
 | - Move the branch to a previous commit | Undo a commit        |
 | - Doesn't create a new commit          | Creates a new commit |
+
+<!--end_slide-->
+
+# Restoring deleted commits and branches
+
+<!-- pause -->
+<!-- incremental_lists: true -->
+
+- Git doesn't truly delete commits
+- See all recent actions: `git reflog`
+- To restore a deleted commit `C1`: `git cherry-pick C1`
+- To restore deleted branch `<branch>` : `git checkout -b <branch> C1`
