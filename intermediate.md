@@ -1,5 +1,5 @@
 ---
-title: Intarmediate Git/Github
+title: Intermediate Git/Github
 author: Manuj Babu Karki
 theme:
   name: dark
@@ -51,3 +51,12 @@ theme:
 - See all recent actions: `git reflog`
 - To restore a deleted commit `C1`: `git cherry-pick C1`
 - To restore deleted branch `<branch>` : `git checkout -b <branch> C1`
+<!--end_slide-->
+
+# Adding files interactively
+
+<!-- pause -->
+<!-- incremental_lists: true -->
+
+- You can add parts of a file to be staged interactively
+- `git add -p`
